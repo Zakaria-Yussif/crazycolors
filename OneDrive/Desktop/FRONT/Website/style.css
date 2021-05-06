@@ -1,0 +1,42 @@
+body{
+    background-color: lightblue  
+
+}
+
+h1 { 
+    background-color: whitesmoke;
+     color: orange;
+     font: size 3px; ;
+     font-style: italic;
+     text-align: center;
+    }
+    
+
+p.inset{
+    background-color: mediumblue;
+     border:grey;}
+
+p.outset{
+    background-color: mediumorchid; 
+    border-color: orange ;
+
+}
+
+button{ 
+    background-color: orange; 
+    border:3px solid;
+}
+  
+    .footer {
+        
+      background: grey;  
+        border: #3e3e3e 4px solid;
+        color: #d3d3d3;
+    
+    }
+ 
+     
+ 
+ul{
+    list-style:none}
+
